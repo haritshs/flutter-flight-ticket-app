@@ -1,4 +1,4 @@
-# tiket_pesawat_bwa
+Flutter Flight Ticket App
 
 A new Flutter project.
 
@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Demo App Video
-https://youtube.com/shorts/i4CtRyXjdwA
+Demo App
+![26 Juli 2022](https://user-images.githubusercontent.com/102964871/180993641-c1b10e39-b663-424c-a505-af0fb23dd0be.gif)
